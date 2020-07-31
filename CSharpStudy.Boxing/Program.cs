@@ -1,4 +1,4 @@
-﻿namespace CSharpStudy.Multiply
+﻿namespace CSharpStudy.Boxing
 {
     public static class Program
     {
